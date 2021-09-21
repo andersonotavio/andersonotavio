@@ -6,7 +6,7 @@
  
 
 
-- 🌱 I’m currently learning Front-end development
+- 🌱 I'm a front-end developer
 
 ### Tech Stack
 
