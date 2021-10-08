@@ -2,7 +2,8 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-### My name is Anderson Otavio, I'm a student of systems analysis and development
+### My name is Anderson Otavio, the more I know the more I am 
+### I never stop learning
  
 
 
